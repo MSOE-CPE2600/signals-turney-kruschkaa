@@ -1,6 +1,8 @@
 /**
  * File: recv_signal.c
  * Modified by: Alexander Kruschka
+ * Assignment: Lab 10
+ * Section: 111
  * 
  * Brief summary of program: Initializes and uses a sigusr1 handler that prints out an attached
  *  sival_int value to the console in an infinite loop until forcefully exited.

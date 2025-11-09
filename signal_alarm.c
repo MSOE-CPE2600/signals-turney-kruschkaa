@@ -1,6 +1,8 @@
 /**
  * File: signal_alarm.c
  * Modified by: Alexander Kruschka
+ * Assignment: Lab 10
+ * Section: 111
  * 
  * Brief summary of program:
  * - Added a signal alarm to print a message

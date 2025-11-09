@@ -1,6 +1,8 @@
 /**
  * File: send_signal.c
  * Modified by: Alexander Kruschka
+ * Assignment: Lab 10
+ * Section: 111
  * 
  * Brief summary of program: Sends a random integer value using the sigqueue function
  *  to another proram specified by the user entered PID in the command line with SIGUSR1.

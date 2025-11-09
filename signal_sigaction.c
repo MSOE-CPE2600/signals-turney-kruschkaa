@@ -1,6 +1,8 @@
 /**
  * File: signal_sigaction.c
  * Modified by: Alexander Kruschka
+ * Assignment: Lab 10
+ * Section: 111
  * Note: Send SIGUSR1 signal via: kill -SIGUSR1 <pid>
  * 
  * Brief summary of program: Using a sigaction struct, initializes a handler for SIGUSR1

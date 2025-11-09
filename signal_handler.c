@@ -6,6 +6,8 @@
 
 /**
  * Modified by: Alexander Kruschka
+ * Assignment: Lab 10
+ * Section: 111
  * 
  * Brief summary of modifications:
  * - Added volatile variable to determine whether to quit or not

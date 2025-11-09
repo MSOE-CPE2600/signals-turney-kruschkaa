@@ -5,6 +5,8 @@
 
 /**
  * Modified by: Alexander Kruschka
+ * Assignment: Lab 10
+ * Section: 111
  * 
  * Brief summary of modifications:
  * - Added a signal handler for SIGSEGV that prints a message
